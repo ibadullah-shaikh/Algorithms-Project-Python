@@ -11,3 +11,6 @@ graph algorithms as follows:
 average of all local clustering of all nodes
 (7)Borůvka's algorithm
 For an inputted adjacency matrix, a corresponding graph is returned. 
+
+# Note:
+To run this project download the ALGO_PROJECT.py file and benchmark folder, open the .py file in VS code and change the path in code for the benchmark folder, there are two places where you have to change the path for benchmark folder, after changing simply run it... and here you go !!!
